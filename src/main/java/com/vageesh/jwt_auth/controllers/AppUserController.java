@@ -22,6 +22,6 @@ public class AppUserController {
 
     @PostMapping("/login")
     public String login(@RequestBody AppUser user){
-        return "Hello";
+        return appUserService.verify(user);
     }
 }
