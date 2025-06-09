@@ -1,4 +1,4 @@
-# JWT-based-auth-Springboot Private
+# JWT based auth Springboot
 > A Spring Boot project implementing JWT-based authentication.
 
 ## JWT Working
