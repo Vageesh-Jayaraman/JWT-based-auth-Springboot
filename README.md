@@ -1,5 +1,5 @@
 # JWT based auth Springboot  
-> Spring Boot project implementing JWT authentication with 1-minute token expiry.
+>Spring Boot project implementing JWT authentication with 1-minute token expiry. Uses MySQL for user data persistence.
 
 ## JWT Workflow  
 - User registers and logs in.  
